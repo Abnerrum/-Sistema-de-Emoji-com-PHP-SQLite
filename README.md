@@ -1,0 +1,1 @@
+# -Sistema-de-Emoji-com-PHP-SQLite
